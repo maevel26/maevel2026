@@ -1,8 +1,9 @@
-body{
-background-image: url("mermaid.jpg");
-background-size: 100% auto;
-
-
+#homePage {
+	background-image: url("theRealmermaid.png");
+	background color: rgba(255,255,255,0.5);
+	background-blend-mode:lighten;
+	background-size: 100% auto;
+}
 
 
 }
